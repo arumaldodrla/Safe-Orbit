@@ -12,6 +12,7 @@ SafeOrbit is an AI-driven SaaS platform designed to simplify DNS management, HTT
 - **Edge Security Layer**: Configure WAF, rate-limiting, and security headers through simple profiles.
 - **CMS Health & Auto-Patching**: Optional SSH-based vulnerability scanning and one-click updates for WordPress and other CMSs.
 - **Email Authentication Panel**: Guided setup for SPF, DKIM, and DMARC with continuous monitoring.
+- **🚀 AI-Powered Site Optimization**: Automatically detect your website's technology stack (CMS, hosting, framework) and receive personalized, actionable recommendations across 6 key areas (Performance, Security, SEO, Accessibility, Best Practices, UX) with one-click auto-fix for safe optimizations. [Learn More](SITE_OPTIMIZATION_FEATURE.md) | [User Guide](SITE_OPTIMIZATION_USER_GUIDE.md)
 
 ## Target Users
 
@@ -34,6 +35,7 @@ SafeOrbit is built on a modern, serverless architecture:
 
 This repository contains comprehensive documentation for the SafeOrbit platform:
 
+### Core Documentation
 - [Product Requirements Document (PRD)](./prd.md)
 - [User Journeys & UX Flows](./user_journeys.md)
 - [System Architecture Overview](./system_architecture.md)
@@ -44,8 +46,22 @@ This repository contains comprehensive documentation for the SafeOrbit platform:
 - [Implementation Plan & Milestones](./implementation_plan.md)
 - [Deployment & DevOps Guide](./deployment_devops_guide.md)
 - [Runbooks & Operational Playbooks](./runbooks_operational_playbooks.md)
+
+### AI & Automation
 - [AI-Centric Development Guidelines](./ai_centric_development_guidelines.md)
 - [AI Operations & Automation](./ai_operations_automation.md)
+- [AI Implementation Guide](./AI_IMPLEMENTATION_GUIDE.md)
+
+### Features
+- [Site Optimization Feature](./SITE_OPTIMIZATION_FEATURE.md)
+- [Site Optimization User Guide](./SITE_OPTIMIZATION_USER_GUIDE.md)
+
+### Market Research
+- [Market Research Overview](./market-research/README.md)
+- [Executive Summary](./market-research/01_EXECUTIVE_SUMMARY.md)
+- [Competitive Analysis](./market-research/02_COMPETITIVE_ANALYSIS.md)
+- [Customer Personas](./market-research/03_CUSTOMER_PERSONAS.md)
+- [Financial Projections](./market-research/04_FINANCIAL_PROJECTIONS.md)
 
 ## Getting Started
 
