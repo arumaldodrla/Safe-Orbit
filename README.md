@@ -55,6 +55,8 @@ This repository contains comprehensive documentation for the SafeOrbit platform:
 ### Features
 - [Site Optimization Feature](./SITE_OPTIMIZATION_FEATURE.md)
 - [Site Optimization User Guide](./SITE_OPTIMIZATION_USER_GUIDE.md)
+- [Multi-User Collaboration & Webmaster Delegation](./COLLABORATION_AND_DELEGATION.md)
+- [Freemium Strategy & Conversion Scenarios](./FREEMIUM_STRATEGY.md)
 
 ### Market Research
 - [Market Research Overview](./market-research/README.md)
