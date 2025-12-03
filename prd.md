@@ -82,3 +82,17 @@ We will build SafeOrbit to serve three primary user personas:
     *   It must monitor and parse DMARC reports, presenting them in an easy-to-understand format.
     *   It must provide a "spoof-resistance score" and actionable recommendations.
 *   **Out of Scope (v1):** Advanced email deliverability analytics (e.g., inbox placement).
+
+### 4.7. AI-Powered Site Optimization
+
+*   **User Story (As a website owner):** I want to connect my site and receive personalized, easy-to-understand recommendations on how to improve performance, security, and SEO based on my specific technology stack.
+*   **Acceptance Criteria:**
+    *   The platform must automatically detect the site's technology stack (CMS, hosting provider, framework, language).
+    *   It must analyze the site across 6 key areas: Performance, Security, SEO, Accessibility, Best Practices, and User Experience.
+    *   It must provide a 0-100 score for each category with an overall site health score.
+    *   It must generate priority-ranked recommendations (Critical, High, Medium, Low) with step-by-step instructions tailored to the detected technology.
+    *   It must show expected impact for each recommendation (e.g., "Reduce load time by 40%").
+    *   It must offer one-click auto-fix for safe optimizations (e.g., enable caching, add security headers, generate sitemap).
+    *   It must provide technology-specific guides for 50+ platforms (WordPress, Shopify, Next.js, etc.).
+    *   It must require user confirmation before applying any changes that could affect site functionality.
+*   **Out of Scope (v1):** Code refactoring, content rewriting, UI/UX redesign, hosting migration.
